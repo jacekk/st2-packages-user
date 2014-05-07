@@ -1,0 +1,11 @@
+{
+	"phpcs_executable_path": "C:/wamp/bin/php/php5.3.9/phpcs.bat",
+	"extensions_to_execute": ["php", "module", "inc", "install"],
+	"phpcs_show_errors_on_save": true,
+	"phpcs_outline_for_errors": true,
+	"extensions_to_blacklist": ["tpl.php"],
+	"phpcs_additional_args": {
+		"--standard": "PSR2",
+		"-n": ""
+	}
+}

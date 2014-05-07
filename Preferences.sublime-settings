@@ -1,0 +1,47 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"default_line_ending": "LF",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"disable_tab_abbreviations": true,
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"LaTeX",
+		"Java",
+		"Scala",
+		"Vintage",
+		"Perl",
+		"Textile",
+		"Matlab",
+		"Erlang",
+		"ASP",
+		"AppleScript",
+		"TCL",
+		"Google Spell Check",
+		"D",
+		"Lisp",
+		"Theme - Default",
+		"Dictionaries",
+		"R",
+		"PHPUnit",
+		"ShellScript",
+		"RestructuredText",
+		"OCaml",
+		"Graphviz",
+		"Haskell",
+		"ActionScript",
+		"Go",
+		"Diff",
+		"Gist"
+	],
+	"theme": "Phoenix Dark.sublime-theme"
+}

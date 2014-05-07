@@ -1,0 +1,36 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ApplySyntax",
+		"Arnold Clark Snippets for Ruby",
+		"CodeFormatter",
+		"CoffeeScript",
+		"DocBlockr",
+		"Drupal",
+		"EditorConfig",
+		"Emmet",
+		"Gist",
+		"Goto Documentation",
+		"Indent XML",
+		"jQuery",
+		"JSHint",
+		"LESS",
+		"Less2Css",
+		"Markdown Preview",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Package Syncing",
+		"PHP Haml",
+		"PHP-Twig",
+		"Phpcs",
+		"PHPUnit",
+		"PlainTasks",
+		"Sass",
+		"Stupid Indent",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Phoenix",
+		"TrailingSpaces"
+	]
+}
