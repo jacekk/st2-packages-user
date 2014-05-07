@@ -1,2 +1,4 @@
-st2-packages-user
-=================
+ST2 Packages
+---
+
+User directory to sync packages between machines.
