@@ -12,19 +12,20 @@
 		"CVS",
 		".sass-cache"
 	],
-	"font_size": 12,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"LaTeX",
 		"Java",
 		"Scala",
-		"Vintage",
 		"Perl",
 		"Textile",
 		"Matlab",
 		"Erlang",
 		"ASP",
+		"Gist",
 		"AppleScript",
+		"LiveReload",
 		"TCL",
 		"Google Spell Check",
 		"D",
@@ -40,8 +41,7 @@
 		"Haskell",
 		"ActionScript",
 		"Go",
-		"Diff",
-		"Gist"
+		"Diff"
 	],
 	"theme": "Phoenix Dark.sublime-theme"
 }
